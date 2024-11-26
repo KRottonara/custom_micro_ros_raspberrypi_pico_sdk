@@ -1,0 +1,2 @@
+# custom_micro_ros_raspberrypi_pico_sdk
+This is a customized version of micro_ros_raspberrypi_pico_sdk
